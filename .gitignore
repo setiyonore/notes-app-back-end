@@ -4,6 +4,9 @@ package-lock.json
 *.log
 *.gz
 
+notes-api-web-server.pem
+.env
+.prod.env
 # Coveralls
 .nyc_output
 coverage
