@@ -5,12 +5,12 @@ const mapDBToModel = ({
   tags,
   created_at,
   updated_at,
-})=>({
+}) =>({
   id,
   title,
   body,
   tags,
-  createdAt: createdAt,
+  createdAt: created_at,
   updated_at: updated_at,
 });
 
