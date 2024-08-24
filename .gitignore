@@ -10,7 +10,7 @@ notes-api-web-server.pem
 # Coveralls
 .nyc_output
 coverage
-
+src/api/uploads/file/images
 # Benchmarking
 benchmarks/graphs
 
